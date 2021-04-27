@@ -10,7 +10,7 @@ the middle) because it is impossible for one baboon to climb over another one wh
 suspended over the canyon. If a baboon wants to cross the canyon, he must check to
 see that no other baboon is currently crossing in the opposite direction. Write a program using semaphores that avoids deadlock. Do not worry about a series of
 eastward-moving baboons holding up the westward-moving baboons indefinitely.
-'''
+```
 #<Thread:0x0000000004fb2c60@C:/Users/Ђавс¬/Desktop/ЋЎгзҐ­ЁҐ/Ћ‘/‹ђ5/Ћ‘5ЊЏ.rb:94 run>tried <==, success
 #<Thread:0x0000000004fb31d8@C:/Users/Ђавс¬/Desktop/ЋЎгзҐ­ЁҐ/Ћ‘/‹ђ5/Ћ‘5ЊЏ.rb:94 run>tried <==, success
 #<Thread:0x0000000004fb0b40@C:/Users/Ђавс¬/Desktop/ЋЎгзҐ­ЁҐ/Ћ‘/‹ђ5/Ћ‘5ЊЏ.rb:94 run>tried <==, success
@@ -53,4 +53,4 @@ eastward-moving baboons holding up the westward-moving baboons indefinitely.
 #<Thread:0x0000000004fb19f0@C:/Users/Ђавс¬/Desktop/ЋЎгзҐ­ЁҐ/Ћ‘/‹ђ5/Ћ‘5ЊЏ.rb:94 run>tried <==, but now priority waits to go ==>
 #<Thread:0x0000000004fb2b48@C:/Users/Ђавс¬/Desktop/ЋЎгзҐ­ЁҐ/Ћ‘/‹ђ5/Ћ‘5ЊЏ.rb:94 run>tried <==, but now priority waits to go ==>
 #<Thread:0x0000000002824540@C:/Users/Ђавс¬/Desktop/ЋЎгзҐ­ЁҐ/Ћ‘/‹ђ5/Ћ‘5ЊЏ.rb:94 run>tried <==, but now priority waits to go ==>
-'''
+```
